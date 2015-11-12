@@ -1,1 +1,0 @@
-﻿Para habilitar los sockets de acceso a internet debemos usar android.permission.INTERNET en AndroidManifest.xml
